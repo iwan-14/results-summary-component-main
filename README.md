@@ -27,11 +27,12 @@ Users should be able to:
 ### Screenshot
 
 ![](./screenshot.png)
+![](./screenshot1.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/iwan-14/results-summary-component-main)
-- Live Site URL: [Add live site URL here](https://results-summary-component-two-kappa.vercel.app/)
+- Solution URL: [https://github.com/iwan-14/results-summary-component-main](https://github.com/iwan-14/results-summary-component-main)
+- Live Site URL: [https://results-summary-component-two-kappa.vercel.app/](https://results-summary-component-two-kappa.vercel.app/)
 
 ## My process
 
